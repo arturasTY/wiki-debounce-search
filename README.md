@@ -6,9 +6,9 @@ This React search app is utilizing [Wikipedia Api](https://www.mediawiki.org/wik
 
 ![](https://user-images.githubusercontent.com/30295076/226648649-433ffdcc-c999-4b14-acaf-d35c37d04442.jpg)
 
-![](https://user-images.githubusercontent.com/30295076/226649612-f496162f-b4fc-4761-8c59-0cd5ebe660f5.jpg)
+![](https://user-images.githubusercontent.com/30295076/226658474-faaef702-8666-451b-b9c7-7d0bcbcbb069.jpg)
 
-## 🔗 [Live Demo]()
+## 🔗 [Live Demo](https://arturasty.github.io/wiki-debounce-search/)
 
 ## ✅ Features:
 * Fetch data from the API
