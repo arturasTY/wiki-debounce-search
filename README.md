@@ -2,11 +2,11 @@
 
 [![](https://skillicons.dev/icons?i=vite,react,css)]()
 
-This React search app is utilizing [Wikipedia Api(https://www.mediawiki.org/wiki/API:Main_page)] to fetch data for a given search term. To limit the number of function calls the app is using a Debounce hook to search the retrieve data. The call to the api is delayed by 1 second to reduce the number of requests and improve performance.
+This React search app is utilizing [Wikipedia Api](https://www.mediawiki.org/wiki/API:Main_page) to fetch data for a given search term. To limit the number of function calls the app is using a Debounce hook to search the retrieve data. The call to the api is delayed by 1 second to reduce the number of requests and improve performance.
 
-![Digital-Mockup-Freebie-2](https://user-images.githubusercontent.com/30295076/214604951-5ec3ad2d-2a5a-4e13-93c4-0673a53eb2e5.jpg)
+![](https://user-images.githubusercontent.com/30295076/226648649-433ffdcc-c999-4b14-acaf-d35c37d04442.jpg)
 
-![Free-Keyboard-With-Tablet-Mockup](https://user-images.githubusercontent.com/30295076/214605013-e52a05ec-0795-4457-a7fe-da6958b65232.jpg)
+![](https://user-images.githubusercontent.com/30295076/226649612-f496162f-b4fc-4761-8c59-0cd5ebe660f5.jpg)
 
 ## 🔗 [Live Demo]()
 
