@@ -12,6 +12,7 @@ This React search app is utilising [Wikipedia Api](https://www.mediawiki.org/wik
 
 ## ✅ Features:
 * useDebounce Hook
+* Skeleton loading
 * Fetch data from the API
 * Show view count and indicator
 * Conditional Rendering

@@ -135,6 +135,7 @@ body {
   font-size: 1.15em;
   text-decoration: none;
   margin-left: 15px;
+  flex: 1;
 }
 
 .results__extract {
@@ -153,6 +154,18 @@ body {
 }
 .results__views--red {
   color: var(--red);
+}
+
+.results__error {
+  text-align: center;
+  color: var(--red);
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.results__error svg {
+  fill: var(--red);
 }
 
 .results__views svg{
