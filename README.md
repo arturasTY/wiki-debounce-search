@@ -2,15 +2,16 @@
 
 [![](https://skillicons.dev/icons?i=vite,react,css)]()
 
-This React search app is utilizing [Wikipedia Api](https://www.mediawiki.org/wiki/API:Main_page) to fetch data for a given search term. To limit the number of function calls the app is using a Debounce hook to search the retrieve data. The call to the api is delayed by 1 second to reduce the number of requests and improve performance. 
+This React search app is utilising [Wikipedia Api](https://www.mediawiki.org/wiki/API:Main_page) to fetch data for a given search term. To improve performance and user experience of this app and reduce the amount of redundant API calls this app is using a Debounce hook to search and retrieve data. When user types into the search field, the onChange event is triggered and useDebounce hook delays the function call by 1 second without any further input from the user.
 
 ![](https://user-images.githubusercontent.com/30295076/226648649-433ffdcc-c999-4b14-acaf-d35c37d04442.jpg)
 
-![](https://user-images.githubusercontent.com/30295076/226658474-faaef702-8666-451b-b9c7-7d0bcbcbb069.jpg)
+![](https://user-images.githubusercontent.com/30295076/226879492-edb4034b-5dc0-4cf7-8d0a-ae29a9310339.jpg)
 
 ## 🔗 [Live Demo](https://arturasty.github.io/wiki-debounce-search/)
 
 ## ✅ Features:
+* useDebounce Hook
 * Fetch data from the API
 * Show view count and indicator
 * Conditional Rendering
